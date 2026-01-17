@@ -10,6 +10,6 @@ This project demonstrates how raw retail sales data can be transformed into an i
 to track KPIs such as revenue, profit, profit margin, and sales trends.
 
 ## Files
-- Dataset/sales_data.xlsx
+- sales_data.xlsx
 - Dashboard.pbix (to be created in Power BI)
 - Dashboard_Screenshots/
